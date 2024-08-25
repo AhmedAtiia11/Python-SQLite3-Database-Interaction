@@ -1,0 +1,40 @@
+Total Records: 10
+
+Sample Records:
+{
+    "id": 4,
+    "name": "Hytham",
+    "email": "hytham@gmail.com",
+    "zip_code": "999778",
+    "title": "SRE"
+}
+{
+    "id": 5,
+    "name": "mahmoud",
+    "email": "mahmoud@gmail.com",
+    "zip_code": "222222",
+    "title": "SRE"
+}
+{
+    "id": 6,
+    "name": "hossam",
+    "email": "hossam@gmail.com",
+    "zip_code": "333333",
+    "title": "DevOps"
+}
+{
+    "id": 2,
+    "name": "mohammed",
+    "email": "mohmmed@gmail.com",
+    "zip_code": "88888",
+    "title": "Fullstack"
+}
+{
+    "id": 1,
+    "name": "ahmed",
+    "email": "ahmed@gmail.com",
+    "zip_code": "123456",
+    "title": "master"
+}
+
+Additional Insights:
